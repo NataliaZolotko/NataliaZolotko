@@ -25,8 +25,9 @@
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Natalia_Zolotk0)
-[![E-mail](https://img.shields.io/badge/-E-mail-090909?style=for-the-badge&logo=E-mail)](https://z0lotkon@yandex.ru)
-### Tel.number: +7 904 454 67 62
+[![Yandex](https://img.shields.io/badge/-E-mail-090909?style=for-the-badge&logo=yandex)](mailto:z0lotkon@yandex.ru)
+[![Telephone](https://img.shields.io/badge/-Телефон-090909?style=for-the-badge&logo=telephone)](tel:+79044546762)
+
 
 
 
