@@ -26,7 +26,8 @@
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Natalia_Zolotk0)
 [![Email](https://img.shields.io/badge/-Электронная_почта-090909?style=for-the-badge&logo=mail.ru&logoColor=FF9E0F)](mailto:z0lotkon@yandex.ru)
-[![Phone](https://img.shields.io/badge/-Позвонить-090909?style=for-the-badge&logo=phone)](tel:+79044546762)
+
+
 
 
 
