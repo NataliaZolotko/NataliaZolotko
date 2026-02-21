@@ -1,6 +1,9 @@
 ![Header](https://github.com/NataliaZolotko/NataliaZolotko/blob/main/assets/Без%20имени.png)
 
+### QA Engineer
+🔍 Открыта к предложениям о работе 
 
+### О себе
 Аналитический склад ума, внимательность к деталям и привычка работать по регламентам. Опыт ведения строгой кадровой отчётности сформировал мою ответственность и умение работать с большими объёмами данных. В тестировании это помогает мне выявлять нестандартные сценарии (edge cases) и фокусироваться на соответствии продукта требованиям и дизайн-макетам. Стремлюсь не просто находить ошибки, а улучшать качество продукта системно.
 
 
@@ -17,9 +20,13 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=Selenium)
 ![Requests](https://img.shields.io/badge/-Requests-090909?style=for-the-badge&logo=Requests)
 ![Page Object Model](https://img.shields.io/badge/-Page%20Object%20Model-090909?style=for-the-badge&logo=Page%20Object%20Model)
+![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=VS%20Code)
+
 
 ### Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Natalia_Zolotk0)
+[![E-mail](https://img.shields.io/badge/-E-mail-090909?style=for-the-badge&logo=Telegram)](https://z0lotkon@yandex.ru)
+[![Телефон](https://img.shields.io/badge/-Tel.number-090909?style=for-the-badge&logo=Tel.number)](+7 904 454 67 62)
 
 
 
